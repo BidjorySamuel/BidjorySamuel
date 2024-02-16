@@ -18,8 +18,7 @@ Hello! 👋 My name is Samuel Bidjory, and I'm excited to share a bit about myse
 If you'd like to get in touch with me for collaborations, projects, or just to exchange ideas, feel free to send me a message!
 
 - 📧 Email: bidjorysamuel@gmail.com
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/sam.bidjory/)
+ - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam.bidjory/)
+   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BidjorySamuel)
 
----
-
-Feel free to customize and add more information as desired!
+![Samuel Bidjory GitHub stats](https://github-readme-stats.vercel.app/api?username=BidjorySamuel&show_icons=true&theme=transparent)
