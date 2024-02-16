@@ -18,7 +18,7 @@ Hello! 👋 My name is Samuel Bidjory, and I'm excited to share a bit about myse
 If you'd like to get in touch with me for collaborations, projects, or just to exchange ideas, feel free to send me a message!
 
 - 📧 Email: bidjorysamuel@gmail.com
-- 📱 Instagram: [instagram.com/suainstagram](https://www.instagram.com/sam.bidjory/)
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/sam.bidjory/)
 
 ---
 
