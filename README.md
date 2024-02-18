@@ -1,5 +1,4 @@
-Certainly! Here's a revised version of your README in English:
-
+![Bidjory Samuel](https://github.com/BidjorySamuel/BidjorySamuel/blob/main/Samuel%20Bidjory.png)
 ---
 
 # About Me
