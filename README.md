@@ -19,6 +19,5 @@ If you'd like to get in touch with me for collaborations, projects, or just to e
 
 - 📧 Email: bidjorysamuel@gmail.com
  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam.bidjory/)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BidjorySamuel)
 
 ![Samuel Bidjory GitHub stats](https://github-readme-stats.vercel.app/api?username=BidjorySamuel&show_icons=true&theme=transparent)
