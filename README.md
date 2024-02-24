@@ -3,7 +3,7 @@
 
 # About Me
 
-Hello! 👋 My name is Samuel Bidjory An Franc-Brazilian Software Engineer, and I'm excited to share a bit about myself with you!
+Hello! 👋 My name is Samuel Bidjory a French-Brazilian Software Engineer, and I'm excited to share a bit about myself with you!
 
 ## About
 
