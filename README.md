@@ -17,6 +17,6 @@ Hello! 👋 My name is Samuel Bidjory a French-Brazilian Software Engineer, and 
 If you'd like to get in touch with me for collaborations, projects, or just to exchange ideas, feel free to send me a message!
 
 - 📧 Email: bidjorysamuel@gmail.com
- - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam.bidjory/)
+ - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mano_bid_/)
 
 ![Samuel Bidjory GitHub stats](https://github-readme-stats.vercel.app/api?username=BidjorySamuel&show_icons=true&theme=transparent)
